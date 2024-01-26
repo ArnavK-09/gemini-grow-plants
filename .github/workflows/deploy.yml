@@ -1,5 +1,5 @@
 name: Deploy on Deno
-onn:
+on:
   push:
     branches: [main]
   pull_request:
@@ -29,5 +29,5 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "example-project"
+          project: "gemini-grow-plants"
           entrypoint: "./main.ts"

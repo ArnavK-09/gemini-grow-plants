@@ -1,5 +1,8 @@
+//imports
 import { type PageProps } from "$fresh/server.ts";
 import Loading from "../islands/Loading.tsx";
+
+
 export default function App({ Component }: PageProps) {
   return (
     <html lang="en">
@@ -48,7 +51,7 @@ export default function App({ Component }: PageProps) {
                 <li>
                   <a
                     class="btn text-white"
-                    href="//github.com/ArnavK-09"
+                    href="//github.com/ArnavK-09/gemini-grow-plants"
                     target="_blank"
                     aria-label="github"
                   >

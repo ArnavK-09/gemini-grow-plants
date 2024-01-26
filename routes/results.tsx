@@ -60,18 +60,18 @@ export default function ({ data }: PageProps<PlantData[]>) {
               </h1>
               <div class="grid place-items-center">
                 <p class="select-text max-w-lg py-6 break-words text-green-900 font-medium text-sm md:text-md md:font-bold tracking-tight">
-                  Welcome to your <strong class="mx-0.5">personalized</strong>
+                  Welcome to your <strong>personalized</strong>
                   plant recommendations, powered by
-                  {" "} <strong class="mx-0.5">AI</strong>! By growing these plants,
+                  {" "} <strong>AI</strong>! By growing these plants,
                   you're not only enhancing your surroundings but also
-                  {" "}<strong class="mx-0.5">contributing</strong>{" "}
+                  {" "}<strong>contributing</strong>{" "}
                   to the well-being of our planet. Remember, plants are our
-                  {" "}<strong class="mx-0.5">best friends</strong>. These
-                  {" "}<strong class="mx-0.5">recommendations</strong>{" "}
+                  {" "}<strong>best friends</strong>. These
+                  {" "}<strong>recommendations</strong>{" "}
                   are tailored to your location and local weather, so you can
                   nurture these green companions with confidence. Let's
-                  {" "}<strong class="mx-0.5">grow together</strong>{" "} and make a
-                  {" "}<strong class="mx-0.5">positive</strong>{" "}
+                  {" "}<strong>grow together</strong>{" "} and make a
+                  {" "}<strong>positive</strong>{" "}
                   impact on Earth! Scoll Down {":)"}
                 </p>
               </div>

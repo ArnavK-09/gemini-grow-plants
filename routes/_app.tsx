@@ -5,7 +5,7 @@ import Loading from "../islands/Loading.tsx";
 
 export default function App({ Component }: PageProps) {
   return (
-    <html lang="en">
+    <html data-theme="dark" lang="en">
       <head>
         {/* Meta Tags  */}
         <meta charset="utf-8" />

@@ -12,7 +12,7 @@ const PROMPT =
 
   FOLLOW THIS SCHEME:-
   {
-  "emoji":"appropirate emoji according to plant",
+  "emoji":"appropirate emoji according to plant, only one emoji, don't include text, only EMOJI",
   "name": "Plant Name",
   "type": "Plant Type",
   "growth_time": "Growth timings in string",

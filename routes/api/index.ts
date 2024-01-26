@@ -35,7 +35,7 @@ async function getDataForPlants(data: object) {
   const result = await model.generateContent(PROMPT + JSON.stringify(data));
   const response = await result.response;
   const res = response.text();
-
+  console.log(res)
   // return result
   return JSON.parse(res.replaceAll("`", "").trim());
 }

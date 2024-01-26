@@ -73,7 +73,7 @@ export default function App({ Component }: PageProps) {
         <footer class="footer items-center p-4 bg-neutral text-neutral-content">
           <aside class="items-center grid-flow-col">
             <p>
-              Copyright ©{new Date().getFullYear()} {" "} <a href="//gitHub.com/ArnavK-09" class="text-white font-medium">ArnavK-09</a>
+              Copyright ©{new Date().getFullYear()} {" "} <a href="//github.com/ArnavK-09" class="text-white font-medium" target="_blank">ArnavK-09</a>
               {" "}- All right reserved
             </p>
           </aside>

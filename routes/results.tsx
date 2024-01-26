@@ -90,7 +90,7 @@ export default function ({ data }: PageProps<PlantData[]>) {
             <div class="w-full hover:shadow-2xl md:hover:scale-105 transition card py-2 md:w-96 select-none bg-base-300 shadow-xl">
               <figure>
                 <h2 class="select-none text-9xl rounded-full my-1 bg-white/5 px-1.5 py-2 aspect-square">
-                  {x.emoji.slice(0,1)}
+                  {x.emoji}
                 </h2>
               </figure>
               <div class="card-body">

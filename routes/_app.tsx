@@ -2,7 +2,6 @@
 import { type PageProps } from "$fresh/server.ts";
 import Loading from "../islands/Loading.tsx";
 
-
 export default function App({ Component }: PageProps) {
   return (
     <html data-theme="dark" lang="en">
@@ -74,8 +73,8 @@ export default function App({ Component }: PageProps) {
         <footer class="footer items-center p-4 bg-neutral text-neutral-content">
           <aside class="items-center grid-flow-col">
             <p>
-              Copyright ©{new Date().getFullYear()} <strong class="text-white">ArnavK-09</strong>
-              - All right reserved
+              Copyright ©{new Date().getFullYear()} {" "} <a href="//gitHub.com/ArnavK-09" class="text-white font-medium">ArnavK-09</a>
+              {" "}- All right reserved
             </p>
           </aside>
         </footer>{" "}

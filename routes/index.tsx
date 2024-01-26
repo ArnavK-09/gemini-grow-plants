@@ -25,7 +25,7 @@ export default function () {
             </h1>
             <p class="py-6 select-text bg-white/5 backdrop-blur-sm p-2 shadow my-2 rounded-lg md:brightness-110 text-green-900 md:tracking-wide md: font-medium md:text-md text-sm break-words max-w-md">
               Welcome to our website, where you'll discover a curated selection
-              of <strong>plantation</strong>{" "}
+              of {" "}<strong>plantation</strong>{" "}
               plants perfectly suited to your local climate. Leveraging live
               weather data and the power of{" "}
               <strong>AI</strong>, we make it simple to find and{" "}

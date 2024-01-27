@@ -42,7 +42,7 @@ cd gemini-plant-trees
 
 ## 🎥 Video Demo
 
-![Gemini Grow Plants Demo Video](/static/demo.mp4)
+- **Checkout [Gemini Grow Plants Demo Video](/static/demo.mp4)**
 
 ---
 

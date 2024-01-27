@@ -51,6 +51,6 @@ cd gemini-plant-trees
 >
 
 > [!TIP]
-> ##### Let's make the world of avatars more vibrant and diverse together! Star The Repo! 🌟
+> ##### Let's make world more green and diverse together! Star The Repo! 🌟
 >
 ---
